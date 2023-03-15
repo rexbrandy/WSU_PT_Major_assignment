@@ -16,4 +16,5 @@ We were required to:
 - Validate inputted data
 
 **LibraryProgram18882559.java** is the main file that handles all operations
+
 **Book.java, Loan.java, Member.java** are files that contain a class for each model as well as help functions.
