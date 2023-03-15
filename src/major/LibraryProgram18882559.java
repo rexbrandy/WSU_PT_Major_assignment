@@ -1,11 +1,3 @@
-/*
- * Student ID: 18882559
- * Name: Bailey Yates Armitage
- * Campus: City
- * Tutor Name: Chris
- * Class Day: Wed
- * Class Time: 5:30
- */
 package major;
 
 import java.io.File;
