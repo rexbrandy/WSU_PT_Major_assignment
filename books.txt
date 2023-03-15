@@ -1,0 +1,9 @@
+000001,Lord of the Flies,William Golding,12,3a
+000002,Jane Eyre,Charlotte Bronte,11,2
+000003,War and Peace,Leo Tolstoy,11,3
+000004,The Great Gatsby,F. Scott Fitzgerald,1,1
+000005,Beloved,Tony Morrison,2,Top Left
+000006,Pride and Prejudice,Jane Austen,2,5b
+000007,To Kill a Mockingbird,Harper Lee,2,5c
+000008,Great Expectations,Charles Dickens,3,bottom
+87,BBBB,BBB,b,a

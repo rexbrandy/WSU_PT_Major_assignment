@@ -1,0 +1,5 @@
+100001,Nicole Kidman,1 Smith St Waterloo,0422223000,nicole@hotmail.com
+100002,Hugh Jackman,2/3 Anzac Parade Kensington,0411112000,hugh@gmail.com
+100003,Keith Urban,1 Smith St Waterloo,0411223344,keith.urban@mail.com
+100004,Nick Krygios,100 Redfern St Redfern,04600700,badboy@hotmail.com
+100199,lachy,boanyo cres,04,a@a
