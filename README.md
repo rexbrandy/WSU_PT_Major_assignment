@@ -1,20 +1,22 @@
-# WSU - Programming Techniques Major Assignment.
+# Library Management System
 
-This is the code for my Programming techniques class.
+This Java-based library management system provides a simple command-line interface for managing books, members, and loans in a library. It allows the addition of new books and members, borrowing and returning books, and generating reports on overdue loans. The system reads and writes data to/from CSV files, ensuring persistent storage across sessions. This repository contains the code and associated files for the assignments and projects completed as part of the COMP 2015 - Programming Techniques course at [Western Sydney University](https://www.westernsydney.edu.au/).
 
-We were tasked with building a library management system.
+## Features
 
-We were required to:
-- Read and write data from a .txt file that was comma seperated (Books, Members, Loans)
-- Add new books to system
-- Add new members to system
-- Search for books
-- Borrow books
-- Return book
-- Create overdue book report
-- Ignore incorrectly formatted data
-- Validate inputted data
+- **Add a Book**: Allows users to add a new book with a unique barcode, title, author, aisle, and shelf.
+- **Add a Member**: Allows users to add a new member with a unique barcode, full name, address, phone number, and email.
+- **Find Book Information**: Users can search for books by title.
+- **Overdue Book Report**: Generates a report of all overdue books.
+- **Borrow a Book**: Users can borrow available books, ensuring they adhere to borrowing rules.
+- **Return a Book**: Allows users to return borrowed books.
 
-**LibraryProgram18882559.java** is the main file that handles all operations
-
-**Book.java, Loan.java, Member.java** are files that contain a class for each model as well as help functions.
+## Tools & Technologies
+- **Programming Language**: Java
+- **Compiler**: javac
+- **Operating System**: Unix/Linux (development and testing)
+  
+## Course Details
+- **University**: Western Sydney University
+- **Course Code**: COMP 2015
+- **Course Title**: Programming Techniques
